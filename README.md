@@ -18,6 +18,13 @@ Biotecnologia
 
 ## PROGRAMAS UTILIZADOS
 -GitBash v3.32.0
+
 -Github Desktop v3.0.0
+
+-Anaconda 3.7
+
+-Python 3.9.
+
+
 
 Repositorio del curso de bioinformatica semestre  2022l 
