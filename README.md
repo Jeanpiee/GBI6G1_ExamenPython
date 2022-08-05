@@ -2,7 +2,7 @@
 # BIOINFORMATICA
 ## DATOS PERSONALES
 
-Cerda Jean-Pierre
+Jean-Pierre Cerda Grefa
 
 22
 
