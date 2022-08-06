@@ -1,0 +1,20 @@
+
+1. Sternopygus dariensis mitochondrion, partial genome
+14,873 bp linear DNA 
+MK530707.1 GI:1786482358
+
+2. Sternopygus dariensis voucher PB05 mitochondrion, complete genome
+16,631 bp circular DNA 
+MK530706.1 GI:1786482344
+
+3. Sternopygus dariensis voucher Tu219 mitochondrion, complete genome
+16,628 bp circular DNA 
+MH605315.1 GI:1786482316
+
+4. Sternopygus dariensis voucher RSP04 mitochondrion, complete genome
+16,628 bp circular DNA 
+MH605314.1 GI:1786482302
+
+5. Sternopygus dariensis voucher RSP03 mitochondrion, complete genome
+16,629 bp circular DNA 
+MH605313.1 GI:1786482288

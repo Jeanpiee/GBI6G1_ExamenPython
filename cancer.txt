@@ -1,0 +1,20 @@
+
+1. Cancer borealis voucher ULLZ 5509 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+445 bp linear DNA 
+MZ412977.1 GI:2055129245
+
+2. Cancer borealis voucher ULLZ 5509 small subunit ribosomal RNA gene, partial sequence
+606 bp linear DNA 
+MZ409605.1 GI:2054382396
+
+3. Cancer borealis voucher ULLZ_5509 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+331 bp linear DNA 
+MZ413010.1 GI:2055129229
+
+4. Cancer borealis insulin-like androgenic gland hormone (IAG) mRNA, complete cds
+928 bp linear mRNA 
+MW207169.1 GI:2211454265
+
+5. Cancer sp. isolate N60 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+390 bp linear DNA 
+MW403832.1 GI:1949571384
